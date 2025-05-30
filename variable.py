@@ -19,3 +19,14 @@ _a=20
 print(_a)
 
 
+c=45
+d=52
+print(c,d)
+print(id(c),id(d))
+
+_d=10
+print(_d)
+
+c_d = 54
+print(c_d)
+# variable we can store any element
